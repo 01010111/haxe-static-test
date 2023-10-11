@@ -1,0 +1,1 @@
+import test.Object.instance as OBJECT;
